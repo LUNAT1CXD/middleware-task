@@ -1,0 +1,15 @@
+.env*
+
+venv
+__pycache__
+.mypy_cache
+*.pyc
+*egg-info*
+build
+dist
+
+*.swo
+*.swp
+.idea
+.vscode
+data.json
